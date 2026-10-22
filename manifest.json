@@ -1,0 +1,12 @@
+{
+  "name": "CRM BASE",
+  "short_name": "CRM BASE",
+  "start_url": "./?go=1",
+  "display": "standalone",
+  "background_color": "#e4e5e7",
+  "theme_color": "#e4e5e7",
+  "icons": [
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
